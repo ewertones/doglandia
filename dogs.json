@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Satanás",
+        "breed": "Chihuahua",
+        "birthday": "2020-01-01",
+        "description": "Combina comigo!",
+        "latitude": 123.456,
+        "longitude": -789.012,
+        "owner": "Judas Iscariotes",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Snoopy",
+        "breed": "Beagle",
+        "birthday": "2019-05-05",
+        "description": "O mais inteligente de todos!",
+        "latitude": -19.9334,
+        "longitude": -43.9352,
+        "owner": "Charlie Brown",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Scooby Doo",
+        "breed": "Great Dane",
+        "birthday": "2018-07-15",
+        "description": "Sempre pronto para lanches e mistérios!",
+        "latitude": -19.9254,
+        "longitude": -43.9462,
+        "owner": "Norville Salsicha",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pluto",
+        "breed": "Bloodhound",
+        "birthday": "2020-02-20",
+        "description": "Mais pateta que o Pateta!",
+        "latitude": -19.9174,
+        "longitude": -43.957,
+        "owner": "Mickey Mouse",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Milu",
+        "breed": "Terrier",
+        "birthday": "2019-11-11",
+        "description": "Mais corajoso que o dono!",
+        "latitude": -19.9094,
+        "longitude": -43.9678,
+        "owner": "Tintin",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Brian",
+        "breed": "Labrador Retriever",
+        "birthday": "2018-04-10",
+        "description": "Estou ficando sem ideias aqui!",
+        "latitude": -19.9014,
+        "longitude": -43.9786,
+        "owner": "Peter Griffin",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Caramelo",
+        "breed": "Vira-lata",
+        "birthday": "2020-08-25",
+        "description": "Um dia vai pra nota!",
+        "latitude": -19.8934,
+        "longitude": -43.9894,
+        "owner": "João Silva de Souza",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Ajudante do Papai Noel",
+        "breed": "Galgo",
+        "birthday": "2019-12-12",
+        "description": "Nem sabia que ele tinha esse nome.",
+        "latitude": -19.8854,
+        "longitude": -43.9992,
+        "owner": "Bart Simpson",
+        "featured_photo_id": 1,
+        "photos": [
+            { "id": 1 },
+            { "id": 2 },
+            { "id": 3 },
+            { "id": 4 },
+            { "id": 5 },
+            { "id": 6 },
+            { "id": 7 },
+            { "id": 8 }
+        ]
+    }
+]
